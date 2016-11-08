@@ -1,0 +1,103 @@
+.fundo {
+	width: 100%;
+	height: 1350px;
+	justify-content: center;
+}
+
+.site {
+	margin: 0 auto;
+	width: 60%;
+	height: 1350px;
+	padding: 10px;
+	justify-content: center;
+}
+
+.header {
+	margin: 0 auto;
+	width: 95%;
+	height: 200px;
+}
+
+.insideBox {
+	margin: 0 auto;
+	width: 90%;
+	height: 50px;
+}
+
+.banner {
+	margin: 0 auto;
+	width: 95%;
+	height: 125px;
+}
+
+.conteudo {
+	margin: 0 auto;
+	width: 95%;
+	height: 750px;
+}
+
+.esquerdo {
+	margin: 0 auto;
+	width: 90%;
+	height: 525px
+}
+
+.noticia {
+	margin: 0 auto;
+	width: 90%;
+	height: 120px;
+}
+
+.direito {
+	margin: 0 auto;
+	width: 90%;
+	height: 130px;
+}
+
+.footer {
+	margin: 0 auto;
+	width: 95%;
+	height: 150px;
+}
+
+.copyright {
+	margin: 0 auto;
+	width: 90%;
+	height: 75px;
+}
+
+h2 {
+	color: darkgrey;
+}
+
+h4 {
+	color: black;
+}
+
+h5 {
+	color: white;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.dblue {
+	background-color: navy;
+}
+
+.white {
+	background-color: white;
+}
+
+.dgrey {
+	background-color: #696969;
+}
+
+.lgrey {
+	background-color: #D3D3D3;
+}
+
+.red {
+	background-color: red;
+}
